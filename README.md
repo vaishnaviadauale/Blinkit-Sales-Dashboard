@@ -40,3 +40,6 @@ Boost Marketing in Tier 3 Locations: Intensify marketing efforts in Tier 3 locat
 ## Conclusion:
 This BlinkIt Sales Dashboard serves as a powerful tool for analyzing sales data, providing actionable insights that drive strategic decisions. By leveraging Power BI's capabilities, we've delivered a solution that not only tracks sales performance but also helps optimize operations and enhance customer satisfaction. 💼📊
 
+![Screenshot 2024-08-25 150605](https://github.com/user-attachments/assets/bd04315f-a1ed-4040-8912-c7d7ff804b0f)
+
+
