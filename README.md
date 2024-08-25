@@ -25,9 +25,13 @@ KPI Indicators: Highlighted essential metrics such as Total Sales, Average Sales
 
 ## Key Performance Indicators (KPIs):
 Total Sales: $1.20M
+
 Average Sales per Outlet: $141
+
 Average Rating: 3.9
+
 Number of Items Sold: 8,523
+
 Recommendations:
 Enhance Product Focus: Increase inventory and promotion of top-selling items like fruits and snacks to maximize sales.
 Expand Outlet Sizes: Consider expanding medium and large outlets to leverage their higher sales potential.
