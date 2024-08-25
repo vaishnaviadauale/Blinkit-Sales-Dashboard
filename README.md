@@ -32,7 +32,7 @@ Average Rating: 3.9
 
 Number of Items Sold: 8,523
 
-Recommendations:
+## Recommendations:
 Enhance Product Focus: Increase inventory and promotion of top-selling items like fruits and snacks to maximize sales.
 Expand Outlet Sizes: Consider expanding medium and large outlets to leverage their higher sales potential.
 Boost Marketing in Tier 3 Locations: Intensify marketing efforts in Tier 3 locations to capitalize on their high sales potential.
